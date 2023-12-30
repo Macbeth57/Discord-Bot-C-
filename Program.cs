@@ -29,7 +29,7 @@ namespace NomDuProjet
             _client.Log += LogAsync;
             _client.MessageReceived += MessageReceivedAsync;
 
-            string token = "MTE5MDM0OTQ3MjQ1OTM5MTExNw.Ga_1sj.FPiz1vMJgTkUKDoFKPMerbQ00nppzJl9c9nBMU";
+            string token = "TOKEN HERE";
             await _client.LoginAsync(TokenType.Bot, token);
 
             await _client.StartAsync();
