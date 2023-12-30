@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFCddm8Sonpdg7sqYrBcbWzspRRwuF78tSGeR61p7oD86R5ZRrblmj1uiG8dzJImpT+HtlmIo8w3ZlNFk8h4zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macbe\\Desktop\\C# VSC\\TestBot3\\TestBot3\\TestBot3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net\\3.13.0\\discord.net.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.commands\\3.13.0\\discord.net.commands.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.core\\3.13.0\\discord.net.core.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.interactions\\3.13.0\\discord.net.interactions.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.rest\\3.13.0\\discord.net.rest.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.webhook\\3.13.0\\discord.net.webhook.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\discord.net.websocket\\3.13.0\\discord.net.websocket.3.13.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\macbe\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
